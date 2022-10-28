@@ -1,0 +1,134 @@
+/* ここから下に記載していく */
+h1{
+    font-size: 24px ;
+}
+h2{
+    font-size: 24px ;
+    color: #ffd61a;
+    padding: 20px;             
+    text-align:  center;
+}
+.text-center{
+    padding: 40px;             
+    text-align:  center;
+    line-height: 2;
+}
+.centering_parent{
+    padding: 30px;              
+    text-align:  center;        
+    background-color:  #fafafa;   
+}
+.About__text{
+    line-height: 2;
+}
+
+.text_space{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 2;
+    text-align:  center;
+}
+
+
+/*
+コンタクト部分を真ん中に*/
+.toiawase_text{
+    padding: 40px;             
+    text-align:  center;
+    line-height: 2;
+}
+.toiawase{
+    font-size: 24px ;
+    padding: 20px;             
+    text-align:  center;
+    height: 100px; 
+}
+.profile_title{
+    margin: 0 0 80px;
+    font: size 2.4rem;
+    font-weight:bold;
+}
+.img__center{
+    text-align:  center;
+}
+
+.centering_item {
+    background-color: #fafafa; /* 背景色指定 */
+}
+
+.More-botton{
+
+    color: #fafafa;
+    text-align:  center;
+    font-size: 30px ;
+    background-color: #eae9e5;
+    width: 100px;
+    /* 水平方向の中央揃え */
+    margin:  0 auto;
+
+   
+}
+.More-botton:hover{
+    text-align:  center;
+    color: #ffd61a;
+    
+   
+
+}
+/* li
+ {
+    list-style: none;
+    /* floatプロパティをleftにしてください */
+    /* float: left;
+  } */ 
+
+  .parent {
+    position: relative;
+  }
+  .child {
+    position: absolute;
+    top: 300px;
+    left: 250px;
+    font-size: 40px ;
+    color: #fafafa;
+    line-height: 2;
+  }
+ 
+  NEWS{
+    margin-top: 200px;
+    margin-bottom: 400px;
+  }
+h6 
+{ 
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: 100px;
+}
+
+.copyrights_text{
+    font-size: 24px ;          
+    text-align:  center;
+    padding-top: 500px;
+}
+header ul{
+    text-align:right
+       
+      
+    }
+li{
+    list-style: none;
+    background-color: #fafafa;   
+    float: right;
+    margin-left: 20px;
+
+}
+.space_overmap{
+    font-size: 24px ;
+    color: #ffd61a;
+    padding: 100px;             
+    text-align:  center;
+}
